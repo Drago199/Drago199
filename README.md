@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Drago199
+- 👀 I’m interested in C#, Python and Java
+- 🌱 I’m currently learning Java and software engineering
+- 📫 How to reach me: magic
